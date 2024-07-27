@@ -13,5 +13,5 @@ This program contains the following;
 5. get_multiplicative_group Method to find and return the multiplicative group Z*_m as a set of elements that are coprime with m.
 6. gcd Function which is a helper function to compute the greatest common divisor (GCD) of two numbers, used to determine the elements of Z*_m.
 
-git clone https://github.com/cypriansakwa/Generators_Finder_for_a_Direct_Product_of__Mixed_Groups.git 
-cd Generators_Finder_for_a_Direct_Product_of__Mixed_Groups
+git clone https://github.com/cypriansakwa/Generators_Finder_for_a_Direct_Product_of_Mixed_Groups.git 
+cd Generators_Finder_for_a_Direct_Product_of_Mixed_Groups
