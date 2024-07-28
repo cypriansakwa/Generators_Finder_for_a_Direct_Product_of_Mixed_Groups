@@ -3,7 +3,7 @@ It identifies all pairs (a,b) that generate the entire group.
 
 This program contains the following;
 
-1. ZnZmStar Struct that represents the group Z_n × Z_m.
+1. ZnZmStar Struct that represents the group Z_n × Z*_m.
 
 2. find_generators Method that finds all generator pairs (a,b) of the group.
 
