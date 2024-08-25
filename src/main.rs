@@ -68,9 +68,9 @@ fn gcd(a: u32, b: u32) -> u32 {
 }
 
 fn main() {
-    let group = ZnZmStar::new(5, 10);
+    let group = ZnZmStar::new(5, 7);
     let generators = group.find_generators();
 
-    println!("Generators of Z4 x Z10^*: {:?}", generators);
+    println!("Generators of Z5 x Z7^*: {:?}", generators);
 }
 
